@@ -146,3 +146,7 @@ kotlin {
 - [State and Jetpack Compose](https://developer.android.com/jetpack/compose/state)
 
 ---
+
+## Screenshot Aplikasi
+
+<img src='./Screenshot/Screenshot 2026-03-13 150310.png'>
